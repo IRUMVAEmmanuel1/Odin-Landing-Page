@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .sub-cont{
     background: #1F2937;
    
@@ -9,4 +12,22 @@
 
 .header{
     display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
+
+.navigate{
+    display: flex;
+    text-indent: 20px;
+}
+
+.navitems ul li {
+    list-style-type: none;
+}
+
+.navitems ul li a{
+    text-decoration: none;
+}
+
+
+
