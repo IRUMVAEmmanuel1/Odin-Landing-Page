@@ -7,6 +7,7 @@ body {
 }
 .sub-cont {
 	background: #1f2937;
+    height: 30rem;
 }
 
 .header {
@@ -54,6 +55,7 @@ body {
 }
 
 .sign {
+    margin-top: 9px;
 	background: #3883f6;
 	color: white;
 	border: none;
@@ -63,6 +65,28 @@ body {
 	border-radius: 4px;
 	text-decoration: none;
 	text-align: center;
-	width: 150px;
+	width: 120px;
 	height: 40px;
+}
+
+.place-holder{
+    height: 14rem;
+    width: 25rem;
+    background-color: #C1C1C1;
+    
+    
+}
+
+.holder{
+    color: #f9faf8;
+    margin-top: 6rem;
+    margin-left: 5rem;
+}
+
+.info-random{
+    color: #1F2937;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 1rem;
 }
