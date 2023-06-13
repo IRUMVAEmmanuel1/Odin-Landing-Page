@@ -100,7 +100,9 @@ body {
     gap: 2rem;
     padding-top: 2rem;
 }
-
+.middle-cont{
+    height: 26rem;
+}
 .random-image{
     width: 12rem;
 
@@ -109,4 +111,15 @@ body {
 .subtext1 p{
     color: #65676b;
     text-align: center;
+}
+
+.thunder{
+    background: #E5E7EB;
+    height: 15rem;
+}
+.inspire{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    color: #1F2937;
 }
