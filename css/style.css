@@ -135,16 +135,23 @@ body {
 }
 .call-container {
     display: flex;
-	width: 35rem;
-	background: #3882f6;
-	height: 10rem;
-	margin-top: 4rem;
-    margin-left: 25rem;
+    width: 65rem;
+    background: #3882f6;
+    height: 11rem;
+    margin-top: 4rem;
+    margin-left: 9rem;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 .call-action{
 	padding: 1rem;
 }
 
 .action{
-    
+    font-size: 36px;
+    font-weight: bold;
+    color: #E5E7EB;
 }
