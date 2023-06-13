@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sub-cont{
+    background: #1F2937;
+   
+}
+
+.header{
+    display: flex;
+}
