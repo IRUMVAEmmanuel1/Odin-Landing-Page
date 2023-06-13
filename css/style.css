@@ -89,13 +89,24 @@ body {
     font-size: 36px;
     text-align: center;
     margin-top: 1rem;
+    padding-top: 2rem;
 }
 .subtext{
+    width: 43rem;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    margin-left: 21rem;
+    gap: 2rem;
+    padding-top: 2rem;
 }
 
-.class="random-image"{
-    
+.random-image{
+    width: 12rem;
+
+}
+
+.subtext1 p{
+    color: #65676b;
+    text-align: center;
 }
