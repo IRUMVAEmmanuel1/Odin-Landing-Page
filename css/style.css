@@ -11,9 +11,11 @@ body{
 }
 
 .header{
+ 
     display: flex;
     justify-content: space-around;
     align-items: center;
+    
 }
 
 .navigate{
@@ -32,8 +34,21 @@ body{
     color: #E5E7EB;
 }
 .logo p{
-    font-size: 48px;
+    font-size: 24px;
     font-weight: extra-bold;
     color: #F9FAF8;
 
+}
+
+.body-cont{
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.website .website-header{
+    font-size: 48px;
+    font-family: extra-bold;
+    color: #F9FAF8;
 }
