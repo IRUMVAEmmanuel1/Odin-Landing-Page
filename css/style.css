@@ -173,5 +173,12 @@ body {
 }
 
 .footer{
-    
+    background: #1F2937;
+    height: 5rem;
+}
+
+.copyright{
+    text-align: center;
+    padding-top: 2rem;
+    color: rgb(177, 175, 175);
 }
