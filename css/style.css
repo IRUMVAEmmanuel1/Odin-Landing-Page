@@ -137,8 +137,8 @@ body {
     display: flex;
     width: 65rem;
     background: #3882f6;
-    height: 11rem;
-    margin-top: 4rem;
+    height: 9rem;
+    margin-top: rem;
     margin-left: 9rem;
     border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -147,11 +147,26 @@ body {
     -o-border-radius: 5px;
 }
 .call-action{
-	padding: 1rem;
+	padding: 3rem;
+    margin-left: 4rem;
 }
 
 .action{
-    font-size: 36px;
+    font-size: 20px;
     font-weight: bold;
     color: #E5E7EB;
+}
+.up{
+    color: #E5E7EB;
+    font-size: 11px;
+}
+
+.signup{
+    margin-top: 4rem;
+    margin-left: 10rem;
+    border:white solid;
+    background: #3882f6;
+    color: white;
+    width: 6rem;
+    height: 2rem;
 }
