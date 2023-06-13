@@ -131,14 +131,14 @@ body {
 	margin-left: 51rem;
 }
 .call {
-	height: 25rem;
+	height: 15rem;
 }
 .call-container {
     display: flex;
     width: 65rem;
     background: #3882f6;
-    height: 9rem;
-    margin-top: rem;
+    height: 10rem;
+    margin-top: 5rem;
     margin-left: 9rem;
     border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -147,7 +147,7 @@ body {
     -o-border-radius: 5px;
 }
 .call-action{
-	padding: 3rem;
+	padding: 4rem;
     margin-left: 4rem;
 }
 
@@ -156,17 +156,22 @@ body {
     font-weight: bold;
     color: #E5E7EB;
 }
-.up{
+.up a{
     color: #E5E7EB;
     font-size: 11px;
+    text-decoration: none;
 }
 
 .signup{
     margin-top: 4rem;
-    margin-left: 10rem;
-    border:white solid;
+    margin-left: 16rem;
+    border:white 2px solid;
     background: #3882f6;
     color: white;
     width: 6rem;
     height: 2rem;
+}
+
+.footer{
+    
 }
