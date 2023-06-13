@@ -133,3 +133,17 @@ body {
     font-weight: bold;
     margin-left: 51rem;
 }
+.call{
+    height: 25rem
+}
+.call-container{
+    width:35rem;
+    background: #3882F6;
+    height: 10rem;
+    margin-top: 4rem;
+    
+}
+.call-action{
+    
+    height: 8rem;
+}
