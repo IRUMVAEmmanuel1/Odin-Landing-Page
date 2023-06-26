@@ -103,7 +103,9 @@ body {
 	height: 26rem;
 }
 .random-image {
-	width: 12rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .subtext1 p {
