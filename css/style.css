@@ -73,7 +73,8 @@ body {
 .place-holder {
 	height: 14rem;
 	width: 25rem;
-	background-color: #c1c1c1;
+	/* background-color: #c1c1c1; */
+	/* margin-bottom: 108rem; */
 }
 
 .holder {
